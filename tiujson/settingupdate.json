@@ -1,8 +1,8 @@
 {
-  "title":"TIU App Updater",
+  "title":"New Updates",
   "newVersion": "1.1",
-  "apkUrl": "http://manojinfotech.co.za/apps/TIU_App_Store1.0-debug.apk",
+  "apkUrl": "http://www.manojkumarp.co.za/apps/TIU_App_Store1.1-debug.apk",
   "versionNotes": [
-    "Update TIU App Updater to Verison 1.1","New Bug Fixes"
+    "Update TIU Play Store to Verison 1.1","New Features"
   ]
 }
